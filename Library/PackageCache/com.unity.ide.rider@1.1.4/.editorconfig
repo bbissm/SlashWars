@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 root = true
 
 [*]
 indent_style = space
 indent_size = 2
+=======
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+>>>>>>> 5e7ae5c3b374057726d5247cc162925099acd9f6
 end_of_line = lf
